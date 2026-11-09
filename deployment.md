@@ -2,7 +2,7 @@
 
 ## Current status
 
-This is a runnable local prototype. It has **not** been published to a GitHub repository or deployed to a public hosting provider. Add the public repository URL and live URL to the Technical Design Document after publishing/deploying; do not treat the sample credentials or mock services as production-ready.
+The source repository is intended to be published at https://github.com/chetan1904singh/Fee_and_Family_Portal_Isocode. The app has **not** been deployed to a public hosting provider; add the live URL to the Technical Design Document after deployment. Do not treat the sample credentials or mock services as production-ready.
 
 ## Run locally (Windows)
 

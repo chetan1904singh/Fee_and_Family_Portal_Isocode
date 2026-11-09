@@ -17,7 +17,7 @@ const bullet = (value) => new Paragraph({
 });
 
 const children = [
-  text('GitHub URL: Not published yet — add the public GitHub URL before submission.'),
+  text('GitHub URL: https://github.com/chetan1904singh/Fee_and_Family_Portal_Isocode'),
   text('Live app: Not deployed.'),
   new Paragraph({ text: 'Saarthi', heading: HeadingLevel.TITLE, spacing: { after: 80 } }),
   new Paragraph({ text: 'Coaching Institute Fee Tracking System', heading: HeadingLevel.HEADING_2, spacing: { after: 220 } }),

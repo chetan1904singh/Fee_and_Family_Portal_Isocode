@@ -26,4 +26,4 @@ The server also seeds sample data on first startup. Payments, OTP delivery, and 
 - [deployment.md](./deployment.md)
 - [Saarthi-submission.zip](./Saarthi-submission.zip) — contains the two requested reviewer files.
 
-No public GitHub repository or hosted app URL was supplied or created from this workspace. The TDD calls this out; replace its placeholder before submitting publicly.
+GitHub remote: https://github.com/chetan1904singh/Fee_and_Family_Portal_Isocode. No live app is deployed; add its URL to the TDD after hosting the app.
